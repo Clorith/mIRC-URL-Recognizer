@@ -1,0 +1,7 @@
+.com window nouse
+.net window nouse
+.org window nouse
+.co.uk window nouse
+.info window nouse
+.nu window nouse
+.nl window nouse
